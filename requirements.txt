@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+geopandas
+shapely
+rasterio
+streamlit
