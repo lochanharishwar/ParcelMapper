@@ -1,1 +1,12 @@
+# Python virtual environment
 .venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Large drone footage
+data/input/*.mp4
+
+# Automatically extracted test frames
+data/output/sample_frames/
